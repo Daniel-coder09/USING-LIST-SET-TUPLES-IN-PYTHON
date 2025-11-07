@@ -6,7 +6,8 @@
 - [LIST](#list)
 - [TUPLES](#tuples)
 - [SET](#set)
-
+- [APPLICATION IN PYTHON PROJECTS](#application-in-python-projects)
+- [EXERCISES](#exercises)
 ## INTRO
  This project introduces three important and relatable data structures in python: lists, set and tuples.
 In each of these sections, their meaning, how to use them and when to use them in real programs will be explained.
@@ -105,7 +106,7 @@ Remove an element from a set by using ".remove" at the end of the set name.
 
 ![img_12.png](img_12.png)
 
-## EXERCISES. 
+## EXERCISES.
 1. Create a list of five items and remove the third one.
 2. Create a tuple with your name, age, best color, country.
 3. Create a set with numbers that include duplications and print the result.
